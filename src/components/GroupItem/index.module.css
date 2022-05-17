@@ -1,0 +1,23 @@
+.box {
+    display: flex;
+}
+
+.left {
+
+}
+
+.right {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.groupNameText {
+    font-weight: bold;
+    font-size: large;
+}
+
+.groupText {
+    color: gray;
+}

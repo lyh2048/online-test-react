@@ -1,0 +1,13 @@
+.box {
+    background: #ececec;
+    height: 100%;
+    position: relative;
+}
+
+.card {
+    position: absolute;
+    left:50%;
+    top:50%;
+    width: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,33 @@
+.headBox {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footBox {
+    margin-bottom: 20px;
+}
+
+.headBoxContent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    flex: 1;
+    font-weight: bold;
+}
+
+.center {
+    flex: 2;
+    text-align: center;
+}
+
+.right {
+    flex: 1;
+    font-weight: bold;
+}
+
+.buttonBox {
+    display: flex;
+    flex-wrap: wrap;
+}

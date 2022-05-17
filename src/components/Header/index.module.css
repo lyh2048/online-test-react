@@ -1,0 +1,26 @@
+.nav {
+    height: 60px;
+    background: #40adff;
+}
+
+.navItem {
+    text-align: center;
+    line-height: 60px;
+}
+
+.navText {
+    color: white;
+    cursor: pointer;
+}
+
+.navText a {
+    color: white;
+}
+
+.navText a:hover {
+    color: orange;
+}
+
+.navLinkActive {
+    color: red !important;
+}

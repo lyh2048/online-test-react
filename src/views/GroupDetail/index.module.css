@@ -1,0 +1,27 @@
+.box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.classInfoBox {
+    text-align: center;
+}
+
+.classInfoItem {
+    border: 1px solid #dddddd;
+    width: 100%;
+}
+
+.headBox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contestBox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.memberBox {
+    margin-bottom: 10px;
+}
